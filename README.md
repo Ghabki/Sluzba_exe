@@ -16,7 +16,8 @@ Daily hour and money tracking aplication. I made this aplication mainly for me a
 - Select hours worked and €/h
 - Add to database
 - Later choose month and year to get your monthly salary
-
+-
+- If antivirus marks it as a virus, just add an exception in antivirus
 
 ### Notes
 - I made this aplication in my free time, not the prettiest aplication, I know the code is badly written
