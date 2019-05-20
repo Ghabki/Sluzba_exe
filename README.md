@@ -24,4 +24,3 @@ Daily hour and money tracking aplication. I made this aplication mainly for me a
 - The app is not properly tested
 - In the future I will translate to english
 - Date_picker code is not mine
-- Gui.py is main file
