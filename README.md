@@ -22,6 +22,7 @@ Daily hour and money tracking aplication. I made this aplication mainly for me a
 ### Notes
 - I made this aplication in my free time, not the prettiest aplication, I know the code is badly written
 - Personal data is not secure!!!
+- If you have open 2 or more same aplications the aplication will not work properly
 - The app is not properly tested
 - In the future I will translate to english
 - Date_picker code is not mine
